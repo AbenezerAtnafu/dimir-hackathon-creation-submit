@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans&family=Poppins:wght@200;300&family=Space+Mono&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: "Poppins", sans-serif;
+}
+
+header.navbar {
+  height: 40px;
+  margin: 5px 20px;
+}
+
+div.menu .menu-item.tile.tile-centered {
+  margin-top: 5px;
+}
+
+.menu.hero-list {
+  z-index: inherit;
+  transform: none;
+  min-height: 500px;
+}

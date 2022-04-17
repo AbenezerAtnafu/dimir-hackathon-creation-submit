@@ -1,0 +1,9 @@
+.card-height {
+  height: 28.5rem;
+}
+
+@media (min-width: 768px) {
+  .card-height {
+    height: 28rem;
+  }
+}
