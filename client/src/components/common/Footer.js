@@ -8,8 +8,8 @@ function Footer() {
         <div className="grid grid-cols-2 col-span-3 xl:col-span-2">
           <div className="col-span-2 grid grid-cols-2">
             <div className=" col-span-2 xl:col-span-1 mx-auto xl:mx-0">
-              <h2 className="font-bold text-lg text-white">Heaven</h2>
-              <ul className=" font-light mt-3 text-gray-300">
+              <h2 className="font-bold text-lg text-white">Eshi Construction</h2>
+              <ul className="list-none font-light mt-3 text-gray-300">
                 <li className="mb-1">
                   <span href="/">Consultation</span>
                 </li>
@@ -23,7 +23,7 @@ function Footer() {
             </div>
             <div className="col-span-2 xl:col-span-1 mt-2 mx-auto xl:mx-0">
               <h2 className="font-bold text-lg text-white">Partnerships</h2>
-              <ul className="font-light mt-3 text-gray-300">
+              <ul className="list-none font-light mt-3 text-gray-300">
                 <li className="mb-1">
                   <span href="/">Eshi Digital</span>
                 </li>
@@ -45,7 +45,7 @@ function Footer() {
           <div className="col-span-2 w-full grid grid-cols-2">
             <div className="col-span-2 xl:col-span-1 mx-auto xl:mx-0">
               <h2 className="font-bold mt-10 text-lg text-white">Legal</h2>
-              <ul className="font-light mt-3 text-gray-300">
+              <ul className="list-none font-light mt-3 text-gray-300">
                 <li className="mb-1">
                   <span href="/">Privacy Policy</span>
                 </li>
@@ -62,7 +62,7 @@ function Footer() {
             </div>
             <div className="col-span-2 xl:col-span-1 mx-auto xl:mx-0">
               <h2 className="font-bold mt-10 text-lg text-white">contact</h2>
-              <ul className="font-light mt-3 text-gray-300">
+              <ul className="list-none font-light mt-3 text-gray-300">
                 <li className="mb-1">
                   <span href="/">Email</span>
                 </li>
